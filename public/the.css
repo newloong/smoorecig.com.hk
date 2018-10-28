@@ -18,7 +18,7 @@ h1 {
   color: #848282;
   font-size: 4em;
   font-weight: normal;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
 }
 
 svg {

@@ -15,12 +15,14 @@ body {
 }
 
 h1 {
+  color: #848282;
   font-size: 4em;
   font-weight: normal;
   text-transform: lowercase;
 }
 
 svg {
+  fill: #00a13a;
   width: 200px;
   height: 200px;
 }
